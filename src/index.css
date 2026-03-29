@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+body {
+  background: linear-gradient(to bottom, #ffffff, #e0f7f5);
+  min-height: 100vh;
+  background-attachment: fixed;
+  color: #1E293B; /* High contrast slate-800 */
+  font-family: 'Inter', sans-serif;
+  scroll-behavior: smooth;
+}
