@@ -2,7 +2,7 @@ import React from 'react';
 import { motion } from 'motion/react';
 import { MessageCircle, Menu, X, Facebook } from 'lucide-react';
 
-const WHATSAPP_NUMBER = "573023396482";
+const WHATSAPP_NUMBER = "573022100792";
 
 const products = [
   {
@@ -268,7 +268,7 @@ export default function App() {
                 className="inline-flex items-center gap-3 px-10 py-5 bg-[#25D366] text-white rounded-full font-medium hover:bg-[#20BD5A] transition-all duration-300 shadow-md hover:shadow-lg hover:-translate-y-1 text-lg w-full sm:w-auto justify-center"
               >
                 <MessageCircle className="w-6 h-6" />
-                WhatsApp Empresarial: +57 3023396482
+                WhatsApp Empresarial: +57 3022100792
               </a>
 
               {/* Separador visual */}
